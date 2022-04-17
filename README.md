@@ -1,6 +1,6 @@
 # Fake_News_Classifier
 
-s we all are aware about how fake news has become one of the biggest problems of our age. It has serious impact on our online as well as offline discourse.
+As we all are aware about how fake news has become one of the biggest problems of our age. It has serious impact on our online as well as offline discourse.
 More often we see conflicting facts for the same topic and wondering either it is true or not. The task to classify that either the news is fake or not can be done 
 by using Python and Machine Learning.We can use classifier algorithm to train our model that can predict whether the news is fake or not.
 
